@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:hh" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:hh" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:develop" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="317667ae-b2f0-4fa2-9623-95b756c64359" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Random" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UnitySDK/Assets/ML-Agents/Examples/GridWorld/Scenes/GridWorld.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../UnitySDK/Assets/ML-Agents/Examples/GridWorld/Scenes/GridWorld.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UnitySDK/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../UnitySDK/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UnitySDK/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../UnitySDK/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UnitySDK/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../UnitySDK/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UnitySDK/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../UnitySDK/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UnitySDK/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../UnitySDK/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UnitySDK/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../UnitySDK/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UnitySDK/ProjectSettings/TimeManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../UnitySDK/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UnitySDK/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../UnitySDK/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/sac_trainer_config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../config/sac_trainer_config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/trainer_config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../config/trainer_config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1kzvganB0m7KkC0uFbYJgvZbhO1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="KartingClass" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="gym_unity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KartingClass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="317667ae-b2f0-4fa2-9623-95b756c64359" name="Default Changelist" comment="" />
+      <created>1606716346807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606716346807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="164" y="30" width="952" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606910079409">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="164" y="30" width="952" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720/1280.0.1440.900@0.0.1280.720" timestamp="1606910079409" />
+    <state x="184" y="112" width="1071" height="772" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1606736187161" />
+    <state x="439" y="98" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606716616262">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="439" y="98" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1606716616262" />
+    <state width="1280" height="692" key="GridCell.Tab.0.bottom" timestamp="1606911077358">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1280" height="692" key="GridCell.Tab.0.bottom/0.0.1280.720/1280.0.1440.900@0.0.1280.720" timestamp="1606911077358" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606736326911" />
+    <state width="1280" height="692" key="GridCell.Tab.0.center" timestamp="1606911077356">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1280" height="692" key="GridCell.Tab.0.center/0.0.1280.720/1280.0.1440.900@0.0.1280.720" timestamp="1606911077356" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606736326910" />
+    <state width="1280" height="692" key="GridCell.Tab.0.left" timestamp="1606911077356">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1280" height="692" key="GridCell.Tab.0.left/0.0.1280.720/1280.0.1440.900@0.0.1280.720" timestamp="1606911077356" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606736326909" />
+    <state width="1280" height="692" key="GridCell.Tab.0.right" timestamp="1606911077357">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1280" height="692" key="GridCell.Tab.0.right/0.0.1280.720/1280.0.1440.900@0.0.1280.720" timestamp="1606911077357" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606736326910" />
+    <state x="1425" y="23" width="1140" height="877" key="dock-window-1" timestamp="1606899044419">
+      <screen x="1280" y="23" width="1440" height="877" />
+    </state>
+    <state x="1425" y="23" width="1140" height="877" key="dock-window-1/0.23.1280.697/1280.23.1440.877@0.23.1280.697" timestamp="1606899044419" />
+    <state x="1300" y="23" width="1041" height="877" key="dock-window-2" timestamp="1606910449194">
+      <screen x="1280" y="23" width="1440" height="877" />
+    </state>
+    <state x="1300" y="23" width="1041" height="877" key="dock-window-2/0.23.1280.697/1280.23.1440.877@0.23.1280.697" timestamp="1606910449194" />
+  </component>
+</project>
